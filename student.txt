@@ -1,0 +1,30 @@
+
+Name: Tarek 
+Marks: 80 
+
+Name: Kibriya 
+Marks: 90 
+
+Name: Turzo 
+Marks: 100 
+
+Name: da 
+Marks: 0 
+
+Name: d 
+Marks: 0 
+
+Name: d 
+Marks: 0 
+
+Name: d 
+Marks: 0 
+
+Name: d 
+Marks: 0 
+
+Name: Tarek 
+Marks: 100 
+
+Name: Tamim 
+Marks: 98 
